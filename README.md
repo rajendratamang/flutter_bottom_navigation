@@ -1,16 +1,76 @@
-# bottom_navigation
 
-A new Flutter project.
+# 🚀 Flutter Bottom Navigation App
 
-## Getting Started
+A clean and responsive Flutter app featuring a bottom navigation bar with three screens — **Home**, **Profile**, and **Settings**. Built with simplicity and best practices in mind.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔹 Bottom Navigation with 3 tabs
+- 🔹 Stateful navigation handling
+- 🔹 Modular code structure
+- 🔹 Easy to extend with new pages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Screens
+
+| Home Page | Profile Page | Settings Page |
+|-----------|--------------|----------------|
+| 🏠        | 👤           | ⚙️             |
+
+---
+
+## 🛠️ Project Structure
+
+```
+lib/
+├── home_page.dart            # Home screen UI
+├── profile_page.dart         # Profile screen UI
+├── setting_page.dart         # Settings screen UI
+└── my_bottom_navigation.dart # Main navigation logic
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/flutter-bottom-navigation.git
+   cd flutter-bottom-navigation
+   ```
+
+2. **Get dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📸 Demo
+
+> Coming soon! *(Add screenshots or screen recording here)*
+
+---
+
+## 👨‍💻 Author
+
+**Azen Moktan**  
+🌐 [tamangrajendra.com.np](https://tamangrajendra.com.np)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+⭐ If you find this helpful, don't forget to star the repo and share it with fellow devs!
